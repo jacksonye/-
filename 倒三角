@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>倒三角</title>
 </head>
 <script type="text/javascript">
     for(i=1;i<=10;i++){//i表示行数
@@ -10,7 +10,7 @@
         for(k=1;k<i;k++){//k表示空格数
             document.write("&nbsp;");
         }
-        for(j=i;j<=10;j++){
+        for(j=i;j<=10;j++){//j表示*数
             document.write("* ")
         }
         document.write("</br>");
