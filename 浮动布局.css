@@ -1,0 +1,67 @@
+*{
+    margin:0;
+    padding:0;
+}
+.l{
+    float:left;
+}
+.clear{
+    clear:both;
+}
+.main{
+  text-align: center; 
+}
+.box {
+  margin: 0 auto;
+  width: 400px;
+}
+.z{
+    width:100px;
+    height:100px;  
+}
+.a-2,
+.c-3{
+    width:200px;
+    height:100px;
+}
+.b-1,
+.c-1,
+.c-2{
+    width:100px;
+    height:200px;
+}
+.a-1,
+.b-4,
+.b-6,
+.c-4,
+.d-1,
+.d-4{
+    background-color:#CCFFCC;
+}
+.a-2,
+.b-5,
+.c-1,
+.c-3,
+.d-3,
+.d-6{
+    background-color:#FFCCCC;
+}
+.a-3,
+.b-2,
+.c-5,
+.d-5{
+    background-color:#CCCCFF;
+}
+.b-1,
+.b-3,
+.b-7,
+.c-2,
+.d-2{
+    background-color:#CCCCCC;
+}
+ .d{
+   width:600px;
+   height:100px;
+   margin:0 auto;
+   text-align: center;
+}
