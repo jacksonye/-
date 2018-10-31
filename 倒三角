@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<script type="text/javascript">
+    for(i=1;i<=10;i++){//i表示行数
+
+        for(k=1;k<i;k++){//k表示空格数
+            document.write("&nbsp;");
+        }
+        for(j=i;j<=10;j++){
+            document.write("* ")
+        }
+        document.write("</br>");
+    }
+
+</script>
+<body>
+    
+</body>
+</html>
